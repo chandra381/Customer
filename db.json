@@ -1,5 +1,4 @@
-{
-	"customers": [
+ [
 		{
 			"Id": 1,
 			"first_name": "Rockwell",
@@ -24,5 +23,5 @@
 			"gender": "Female",
 			"Phone Number": 9209657528
 		}
-	]
-}
+]
+
